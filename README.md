@@ -1,2 +1,6 @@
 # hello_world
-this is my first repo form MSCI 709
+this is my first repo from MSCI 709
+
+## Nina Coli
+
+I'm gonna store my repo here. 
