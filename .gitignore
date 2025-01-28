@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# temporary Microsoft Office files
+#  ~$*.doc*
+# ^ this above saves any temporary doc file that exists
+
